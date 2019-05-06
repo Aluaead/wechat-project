@@ -1,2 +1,7 @@
-<!--pages/classic/classic.wxml-->
-<v-like/>
+<!-- pages/classic/classic.wxml -->
+<view class='container'>
+    <view class="header">
+        <v-episode class="episode" />
+        <v-like class="like" />
+    </view>
+</view>

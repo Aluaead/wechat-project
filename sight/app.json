@@ -38,5 +38,6 @@
         "iconPath": "/images/tab/my.png"
       }
     ]
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }
